@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @laijunde32.
+- 👀 I’m a interested in Computer Science student.
+- 🌱 I’m currently learning Python and machine learning. Always up for a challenge.
